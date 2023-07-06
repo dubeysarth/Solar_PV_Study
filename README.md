@@ -1,8 +1,8 @@
 # Solar_PV_Study
 
-## Outline of each file
+<!-- ## Outline of each file -->
 
-<ol>
+<!-- <ol>
     <li> <i>raw_data</i>: This folder contains the earlier csv files that were made for each of the sheet in 'Final Master Data.xlsx'. Note: Observed loss of information and inconsistencies in the data so using the excel file directly. </li>
     <li> <i>Final Master Data.xlsx</i>: This is the final master data file that contains all the data for the study. However, the sheets 'LAMPS FT Raw Data' and 'LAMPS DN Raw Data' randomly switches between mm/dd/yy, dd/mm/yy, yy/dd/mm and yy/mm/dd multiple times. </li>
     <li> <i>Final Master Data Updated.xlsx</i>: The columns of timestamp are manually split wherever the datetime format changes. </li>
@@ -19,4 +19,4 @@
     <li> <i>get_combined_data.ipynb</i>: Code to generate the combined data step by step. </li>
     <li> <i>FT_DN_Missing_Mins.ipynb</i>: Code that shows that around 1000+ mins are missing from the desired sequence</li>
     
-</ol>
+</ol> -->
